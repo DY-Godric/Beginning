@@ -43,7 +43,7 @@ a{text-decoration: none; color: white;}
 
 .lesson{height: 207px; width: 1200px;}
 
-.lesson div,.teacher div{float: left; box-shadow: 5px #888888;}
+.lesson div,.teacher div{float: left;}
 
 .lesson_top{height:40px; font-size: 14px; line-height: 40px; padding: 0 20px; width: 176px; border-top-left-radius:3px; border-top-right-radius:3px;}
 
@@ -64,6 +64,12 @@ a{text-decoration: none; color: white;}
 .box1,.box2,.box3,.box4,.t_box1,.t_box2,.t_box3,.t_box4{margin-right: 30px;}
 
 .box1,.box2,.box3,.box4,.box5{width: 216px;}
+
+.box1,.box2,.box3,.box4,.box5,.right_top_l img,.right_top_r img,.right_top img,.q_box1,.q_box2,.t_box1,.t_box2,.t_box3,.t_box4,.t_box5
+{box-shadow:2px 4px 5px #D3D3D3;}
+
+.box1:hover,.box2:hover,.box3:hover,.box4:hover,.box5:hover,.right_top_l img:hover,.right_top_r img:hover,.right_top img:hover,
+.q_box1:hover,.q_box2:hover,.t_box1:hover,.t_box2:hover,.t_box3:hover,.t_box4:hover,.t_box5:hover{box-shadow:4px 10px 15px #D3D3D3;}
 
 /*前端开发工程师*/
 .part3 .lesson{height: 337px;}
