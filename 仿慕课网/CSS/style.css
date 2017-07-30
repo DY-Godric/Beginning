@@ -63,7 +63,9 @@ a{text-decoration: none; color: white;}
 
 .box1,.box2,.box3,.box4,.t_box1,.t_box2,.t_box3,.t_box4{margin-right: 30px;}
 
-.box1,.box2,.box3,.box4,.box5{width: 216px;}
+.box1,.box2,.box3,.box4,.box5{width: 216px; border-radius:3px;}
+
+.q_box1,.q_box2,.q_box3,.q_box4,.q_box5{border-radius:3px;}
 
 .box1,.box2,.box3,.box4,.box5,.right_top_l img,.right_top_r img,.right_top img,.q_box1,.q_box2,.t_box1,.t_box2,.t_box3,.t_box4,.t_box5
 {box-shadow:2px 4px 5px #D3D3D3;}
@@ -217,11 +219,11 @@ a{text-decoration: none; color: white;}
 
 .part10 ul{list-style: none;}
 
-.t_box1,.t_box2,.t_box3,.t_box4,.t_box5{text-align: center; background: white; width: 176px; padding: 20px; height: 250px;}
+.t_box1,.t_box2,.t_box3,.t_box4,.t_box5{text-align: center; background: white; width: 176px; padding: 20px; height: 250px; border-radius:3px;}
 
 .t_box1 div,.t_box2 div,.t_box3 div,.t_box4 div,.t_box5 div{margin: 0px 28px 20px; width: 120px; height: 120px;}
 
-.teacher h4{color: black; }
+.teacher h4{color: black;}
 
 .teacher h5,.teacher p{color: #7B7B7B; font-size: 12px; font-weight: 400; margin-top: 5px;}
 
